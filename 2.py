@@ -4,7 +4,7 @@ from aiogram.utils import executor
 import g4f
 
 # Token bot Telegram (ganti dengan token bot Anda)
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TOKEN = "7608587541:AAHSBQt8GBw207r2AMPGlwiLooStHq6IoR8"
 
 # Inisialisasi bot dan dispatcher
 bot = Bot(token=TOKEN)
